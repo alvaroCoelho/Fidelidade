@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fidelidade</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="novidades">Novidades</string>
+    <string name="produtos">Produtos</string>
+    <string name="promocoes">Promoções</string>
+    <string name="reservas">Reservas</string>
+    <string name="checkin">Check In</string>
+    <string name="contato">Contato</string>
+    <string name="tituloNovidades">Novidades</string>
+    <string name="tituloCheckIn">Check In</string>
+    <string name="tituloContato">Contato</string>
+    <string name="tituloProdutos">Produtos</string>
+    <string name="tituloPromocoes">Promoções</string>
+    <string name="tituloReservas">Reservas</string>
+
+</resources>
